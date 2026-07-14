@@ -16,7 +16,7 @@ I enjoy building responsive, modern web applications and continuously improving 
 - 💻 Frontend Developer with React.js
 - 🌱 Currently learning TypeScript & Full Stack Development
 - 🚀 Interested in building scalable web applications
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **sudharsananr04@gmail.com**
 
 ---
 
