@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sudharsanan R</h1>
 
-<!--
-**sudhar04/sudhar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Frontend Developer | React.js Developer | JavaScript Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+I enjoy building responsive, modern web applications and continuously improving my frontend development skills.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.E. Mechanical Engineering Graduate (2025)
+- 💻 Frontend Developer with React.js
+- 🌱 Currently learning TypeScript & Full Stack Development
+- 🚀 Interested in building scalable web applications
+- 📫 Reach me at: **your-email@example.com**
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript (Learning)
+
+### Frontend
+
+- React.js
+- Tailwind CSS
+- Bootstrap
+- Vite
+
+### Backend
+
+- Node.js
+- Express.js
+
+### Database
+
+- MySQL
+- Supabase
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## 📌 Featured Projects
+
+- 🚌 Bus Ticket Booking App
+- 🎬 Movie App
+- ✈️ Flight Search App
+- 🌐 Portfolio Website
+
+---
+
+⭐ Thanks for visiting my profile!
