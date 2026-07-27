@@ -30,6 +30,12 @@ I enjoy building responsive, modern web applications and continuously improving 
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;JavaScript+Enthusiast;Currently+Learning+TypeScript;Open+to+Frontend+Opportunities" alt="Typing SVG" />
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 - 🎓 B.E. Mechanical Engineering Graduate (2025)
