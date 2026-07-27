@@ -82,14 +82,6 @@ I enjoy building responsive, modern web applications and continuously improving 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sudhar04&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhar04&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 📌 Featured Projects
 
