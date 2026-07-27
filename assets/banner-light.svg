@@ -1,1 +1,37 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="1180"
+    height="300"
+    viewBox="0 0 1180 300">
 
+    <rect
+        width="1180"
+        height="300"
+        rx="20"
+        fill="#F8FAFC"/>
+
+    <text
+        x="590"
+        y="120"
+        fill="#0F172A"
+        font-size="42"
+        text-anchor="middle"
+        font-family="Arial">
+
+        Hi 👋 I'm Sudharsanan R
+
+    </text>
+
+    <text
+        x="590"
+        y="180"
+        fill="#2563EB"
+        font-size="24"
+        text-anchor="middle"
+        font-family="Arial">
+
+        Frontend Developer • React.js
+
+    </text>
+
+</svg>
