@@ -49,36 +49,29 @@ I enjoy building responsive, modern web applications and continuously improving 
 
 ## 🚀 Tech Stack
 
-### Languages
+### 💻 Frontend
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- TypeScript (Learning)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,vite" />
+</p>
 
-### Frontend
+### ⚙️ Backend
 
-- React.js
-- Tailwind CSS
-- Bootstrap
-- Vite
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-### Backend
+### 🗄️ Database
 
-- Node.js
-- Express.js
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,supabase" />
+</p>
 
-### Database
+### 🛠️ Tools
 
-- MySQL
-- Supabase
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Postman
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
