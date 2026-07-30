@@ -5,7 +5,7 @@
 </picture>
 
 <p align="center">
-I enjoy building responsive, modern web applications and continuously improving my frontend development skills.
+Building fast, responsive, and scalable web applications with React.js and modern frontend technologies.
 </p>
 
 ---
