@@ -115,6 +115,7 @@ I enjoy building responsive, modern web applications and continuously improving 
 **Tech Stack**
 
 `React.js` `Tailwind CSS`
+
 ---
 
 ⭐ Thanks for visiting my profile!
