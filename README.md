@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sudharsanan R</h1>
-
-<h3 align="center">
-Frontend Developer | React.js Developer | JavaScript Enthusiast
-</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
+  <img alt="Sudharsanan Banner" src="./assets/banner-light.svg" width="100%">
+</picture>
 
 <p align="center">
 I enjoy building responsive, modern web applications and continuously improving my frontend development skills.
