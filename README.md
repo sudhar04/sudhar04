@@ -78,11 +78,43 @@ I enjoy building responsive, modern web applications and continuously improving 
 
 ## 📌 Featured Projects
 
-- 🚌 Bus Ticket Booking App
-- 🎬 Movie App
-- ✈️ Flight Search App
-- 🌐 Portfolio Website
+### 🚌 Bus Ticket Booking
 
+> Responsive bus ticket booking application with seat selection and QR ticket generation.
+
+**Tech Stack**
+
+`React.js` `Tailwind CSS` `JavaScript`
+
+---
+
+### ✈️ Flight Search App
+
+> Search flights with a responsive UI and API integration.
+
+**Tech Stack**
+
+`React.js` `Bootstrap` `REST API`
+
+---
+
+### 🎬 Movie App
+
+> Browse trending movies and search by title.
+
+**Tech Stack**
+
+`React.js` `TMDB API`
+
+---
+
+### 🌐 Portfolio Website
+
+> Personal portfolio showcasing projects and frontend skills.
+
+**Tech Stack**
+
+`React.js` `Tailwind CSS`
 ---
 
 ⭐ Thanks for visiting my profile!
