@@ -119,6 +119,17 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ---
 
+
+## 📌 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🚌 **Bus Ticket Booking**<br><br>Responsive booking system with QR ticket generation.<br><br>🌐 **Live Demo** • 📂 **Source Code**<br><br><img src="https://skillicons.dev/icons?i=react,tailwind,js" /> | ✈️ **Flight Search App**<br><br>Flight search application with REST API integration.<br><br>🌐 **Live Demo** • 📂 **Source Code**<br><br><img src="https://skillicons.dev/icons?i=react,bootstrap" /> |
+| 🌐 **Portfolio Website**<br><br>Developer portfolio built using React and Tailwind CSS.<br><br>🌐 **Live Demo** • 📂 **Source Code**<br><br><img src="https://skillicons.dev/icons?i=react,tailwind,firebase" /> | 🎬 **Movie App**<br><br>Movie browsing application powered by TMDB API.<br><br>🌐 **Live Demo** • 📂 **Source Code**<br><br><img src="https://skillicons.dev/icons?i=react" /> |
+
+--- 
+
+
 ## 📈 GitHub Activity
 
 <p align="center">
