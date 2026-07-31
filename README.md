@@ -1,8 +1,9 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-  <img alt="Sudharsanan Banner" src="./assets/banner-light.svg" width="100%">
-</picture>
+<p align="center">
+  <img
+    src="./assets/banner-dark.svg"
+    width="100%"
+    alt="Sudharsanan Banner">
+</p>
 
 <p align="center">
 Building fast, responsive, and scalable web applications with React.js and modern frontend technologies.
