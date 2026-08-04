@@ -138,12 +138,16 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Experience
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sudhar04&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhar04&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+### Junior Frontend Developer
+
+- Built responsive web applications using React.js.
+- Integrated REST APIs for dynamic data.
+- Optimized UI performance and responsiveness.
+- Worked on projects across education, finance, and hospitality domains.
+
+---
 
 ⭐ Thanks for visiting my profile!
 
