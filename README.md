@@ -149,5 +149,28 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ---
 
+## 🌐 Coding Profiles
+
+<p align="center">
+
+<a href="YOUR_GITHUB">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+---
+
 ⭐ Thanks for visiting my profile!
 
