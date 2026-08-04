@@ -172,5 +172,11 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ---
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+
+⭐ Thanks for visiting my profile! <br>
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</p>
 
