@@ -53,25 +53,25 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ### 💻 Frontend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,vite" />
 </p>
 
 ### ⚙️ Backend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄️ Database
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,supabase" />
 </p>
 
 ### 🛠️ Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
