@@ -143,10 +143,11 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ### Junior Frontend Developer
 
-- Built responsive web applications using React.js.
-- Integrated REST APIs for dynamic data.
-- Optimized UI performance and responsiveness.
-- Worked on projects across education, finance, and hospitality domains.
+- Built and maintained responsive web applications using **React.js, JavaScript, HTML, and CSS**.
+- Developed reusable UI components and responsive interfaces across different screen sizes.
+- Integrated REST APIs to display dynamic application data.
+- Worked on web projects across **education, finance, and hospitality domains**.
+- Improved UI responsiveness, performance, and cross-browser compatibility.
 
 ---
 
