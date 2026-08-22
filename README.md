@@ -46,7 +46,7 @@ Building fast, responsive, and scalable web applications with React.js and moder
 - 🌱 Currently learning **TypeScript and Full Stack Development**
 - 🚀 Passionate about creating clean, responsive, and user-friendly experiences
 - 🎯 Open to **Frontend Developer opportunities**
-- 📫 Reach me at: <a href="mailto:sudharsananr04@gmail.com">sudharsananr04@gmail.com</a>
+- 📫 Reach me at: **sudharsananr04@gmail.com**
 
 ---
 
