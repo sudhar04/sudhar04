@@ -39,12 +39,13 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ## 👨‍💻 About Me
 
+- 💻 Frontend Developer specializing in **React.js and modern web technologies**
 - 🎓 B.E. Mechanical Engineering Graduate (2025)
-- 💻 Frontend Developer with React.js
-- 🌱 Currently learning TypeScript & Full Stack Development
-- 🚀 Passionate about building responsive and user-friendly web applications
-- 🎯 Seeking Frontend Developer opportunities
-- 📫 Reach me at: **sudharsananr04@gmail.com**
+- 🧩 Experienced in building responsive and component-based web applications
+- 🔗 Comfortable with REST API integration and dynamic data-driven interfaces
+- 🌱 Currently learning **TypeScript and Full Stack Development**
+- 🚀 Passionate about creating clean, responsive, and user-friendly experiences
+- 🎯 Open to **Frontend Developer opportunities**
 
 ---
 
