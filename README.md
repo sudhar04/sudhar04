@@ -25,7 +25,7 @@ Building fast, responsive, and scalable web applications with React.js and moder
   </a>
 
   <a href="mailto:sudharsananr04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
