@@ -37,6 +37,16 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ---
 
+<p align="center">
+  <img 
+    src="YOUR_GIF_DIRECT_LINK_HERE" 
+    alt="Developer working on laptop"
+    width="500"
+  />
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 - 💻 Frontend Developer specializing in **React.js and modern web technologies**
