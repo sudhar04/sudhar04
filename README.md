@@ -81,6 +81,18 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ## 📌 Featured Projects
 
+### 🚩 Feature Flag Management System
+
+> Multi-tenant feature flag management system for controlling application features dynamically, with separate frontend applications and backend functionality.
+
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js` `MySQL`
+
+📂 **[View Source Code](https://github.com/sudhar04/Bus-Ticket-Booking-App)**
+
+---
+
 ### 🚌 Bus Ticket Booking
 
 > Responsive bus ticket booking application with seat selection and QR ticket generation.
@@ -129,13 +141,13 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ---
 
-### 🌐 Portfolio Website
+### 🚤 Boating Website
 
-> Personal portfolio showcasing projects and frontend skills.
+> Modern and responsive boating website featuring an engaging user interface and responsive layouts across desktop, tablet, and mobile devices.
 
 **Tech Stack**
 
-`React.js` `Tailwind CSS`
+`React.js` `Tailwind CSS` `JavaScript`
 
 📂 **[View Source Code](https://github.com/sudhar04/Healthcare-Dashboard)**
 
