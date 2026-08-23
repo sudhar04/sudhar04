@@ -125,7 +125,7 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 `React.js` `TMDB API`
 
-📂 **[View Source Code](https://github.com/sudhar04/Healthcare-Dashboard)**
+📂 **[View Source Code](https://github.com/sudhar04/cine-flix)**
 
 ---
 
