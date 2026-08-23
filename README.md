@@ -89,6 +89,8 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 `React.js` `Tailwind CSS` `JavaScript`
 
+📂 **[View Source Code](https://github.com/sudhar04/Healthcare-Dashboard)**
+
 ---
 
 ### ✈️ Flight Search App
@@ -98,6 +100,20 @@ Building fast, responsive, and scalable web applications with React.js and moder
 **Tech Stack**
 
 `React.js` `Bootstrap` `REST API`
+
+📂 **[View Source Code](https://github.com/sudhar04/Healthcare-Dashboard)**
+
+---
+
+### 🏥 Healthcare Dashboard
+
+> Modern and responsive healthcare dashboard built with React.js, featuring dynamic patient information, diagnostic data, vital signs, and blood pressure history visualization.
+
+**Tech Stack**
+
+`React.js` `JavaScript` `CSS3` `Chart.js` `REST API`
+
+📂 **[View Source Code](https://github.com/sudhar04/Healthcare-Dashboard)**
 
 ---
 
@@ -109,6 +125,8 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 `React.js` `TMDB API`
 
+📂 **[View Source Code](https://github.com/sudhar04/Healthcare-Dashboard)**
+
 ---
 
 ### 🌐 Portfolio Website
@@ -118,6 +136,8 @@ Building fast, responsive, and scalable web applications with React.js and moder
 **Tech Stack**
 
 `React.js` `Tailwind CSS`
+
+📂 **[View Source Code](https://github.com/sudhar04/Healthcare-Dashboard)**
 
 ---
 
