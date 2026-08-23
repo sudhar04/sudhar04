@@ -89,7 +89,7 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 `React.js` `Tailwind CSS` `JavaScript`
 
-📂 **[View Source Code]([https://github.com/sudhar04/Healthcare-Dashboard](https://github.com/sudhar04/Bus-Ticket-Booking-App))**
+📂 **[View Source Code](https://github.com/sudhar04/Bus-Ticket-Booking-App)**
 
 ---
 
