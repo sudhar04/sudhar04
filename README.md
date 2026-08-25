@@ -93,7 +93,7 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ### 🚩 Feature Flag Management System
 
-> Multi-tenant feature flag management system for controlling application features dynamically, with separate frontend applications and backend functionality.
+> Multi-tenant feature flag management platform for dynamically controlling application features. Built with separate frontend applications, backend services, authentication, and database-driven feature management.
 
 **Tech Stack**
 
@@ -105,7 +105,7 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ### 🚌 Bus Ticket Booking
 
-> Responsive bus ticket booking application with seat selection and QR ticket generation.
+> Interactive bus booking application with seat selection, booking flow, and QR ticket generation.
 
 **Tech Stack**
 
@@ -117,7 +117,7 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ### ✈️ Flight Search App
 
-> Search flights with a responsive UI and API integration.
+> Flight search application with a responsive interface and REST API integration for dynamic flight data.
 
 **Tech Stack**
 
@@ -129,7 +129,7 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ### 🏥 Healthcare Dashboard
 
-> Modern and responsive healthcare dashboard built with React.js, featuring dynamic patient information, diagnostic data, vital signs, and blood pressure history visualization.
+> Responsive healthcare dashboard displaying patient information, diagnostic data, vital signs, and blood pressure history through interactive data visualizations.
 
 **Tech Stack**
 
@@ -141,7 +141,7 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ### 🎬 Movie App
 
-> Browse trending movies and search by title.
+> Movie discovery application for browsing trending movies and searching titles using the TMDB API.
 
 **Tech Stack**
 
