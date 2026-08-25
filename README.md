@@ -205,23 +205,6 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sudhar04&show_icons=true&theme=github_dark&hide_border=true" 
-    alt="Sudharsanan's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhar04&layout=compact&theme=github_dark&hide_border=true" 
-    alt="Top Languages"
-  />
-</p>
-
----
 
 ---
 
