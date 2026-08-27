@@ -129,7 +129,7 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 📂 **[View Source Code](https://github.com/sudhar04/Flight-Search-App)**
 
-🌐 **[Live Demo](YOUR_DEMO_URL)**
+🌐 **[Live Demo](https://rs-flight-search.netlify.app/)**
 
 ---
 
