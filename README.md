@@ -167,7 +167,7 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 📂 **[View Source Code](https://github.com/sudhar04/Boating-website)**
 
-🌐 **[Live Demo](YOUR_DEMO_URL)**
+🌐 **[Live Demo](https://boating-website.vercel.app/)**
 
 ---
 
