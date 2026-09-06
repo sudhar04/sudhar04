@@ -91,6 +91,20 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ## 📌 Featured Projects
 
+### 🤝 RS Hunt — Business Networking Platform
+
+> A premium business networking platform built to connect entrepreneurs, professionals, and business owners across Pondicherry/Puducherry and India, with a focus on meaningful connections, collaboration, and business growth.
+
+**Tech Stack**
+
+`React.js` `Tailwind CSS` `JavaScript`
+
+📂 **[View Source Code](YOUR_GITHUB_REPOSITORY_LINK)**
+
+🌐 **[Live Demo](https://rs-hunt.vercel.app/)**
+
+---
+
 ### 🚩 Feature Flag Management System
 
 > Multi-tenant feature flag management platform for dynamically controlling application features. Built with separate frontend applications, backend services, authentication, and database-driven feature management.
