@@ -125,7 +125,7 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 **Tech Stack**
 
-`React.js` `Tailwind CSS` `JavaScript`
+`React.js` `Tailwind CSS` `JavaScript` `Responsive Design`
 
 📂 **[View Source Code](https://github.com/sudhar04/Bus-Ticket-Booking-App)**
 
