@@ -111,7 +111,7 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 **Tech Stack**
 
-`React.js` `Node.js` `Express.js` `Mongodb`
+`React.js` `Node.js` `Express.js` `MongoDB`
 
 📂 **[View Source Code](https://github.com/sudhar04/Feature-Flag-Management-System)**
 
