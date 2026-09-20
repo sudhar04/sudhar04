@@ -4,7 +4,7 @@
     width="100%"
     alt="Sudharsanan Banner">
 </p> 
-
+ 
 <p align="center">
 Building fast, responsive, and scalable web applications with React.js and modern frontend technologies  .
 </p>
