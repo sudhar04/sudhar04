@@ -194,6 +194,24 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sudhar04&show_icons=true&theme=tokyonight&hide_border=true&rank=false"
+    height="180"
+    alt="Sudharsanan's GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhar04&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
 ## 💼 Experience
 
 ### Junior Frontend Developer
