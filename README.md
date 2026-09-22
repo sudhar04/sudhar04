@@ -212,6 +212,17 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ---
 
+## 🔥 GitHub Contributions
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=sudhar04&theme=dark&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
+</p>
+
+---
+
 ## 💼 Experience
 
 ### Junior Frontend Developer
