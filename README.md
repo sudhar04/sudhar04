@@ -223,6 +223,15 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ---
 
+## 🔥 GitHub Contributions
+
+<p align="center">
+  <img
+    src="./profile/streak.svg"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
 ## 💼 Experience
 
 ### Junior Frontend Developer
