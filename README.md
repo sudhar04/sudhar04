@@ -185,11 +185,13 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ---
 
-
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhar04&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img
+    src="./profile/activity-graph.svg"
+    alt="Sudharsanan's GitHub Activity Graph"
+  />
 </p>
 
 ---
