@@ -196,30 +196,10 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img
-    src="./profile/stats.svg"
-    height="180"
-    alt="Sudharsanan's GitHub Stats"
-  />
-
-  <img
-    src="./profile/top-langs.svg"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-## 🔥 GitHub Contributions
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=sudhar04&theme=dark&hide_border=true"
-    alt="GitHub Streak Stats"
-  />
-</p>
+<div align="center">
+  <img src="./profile/stats.svg" height="180" alt="Sudharsanan's GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
+</div>
 
 ---
 
@@ -231,6 +211,8 @@ Building fast, responsive, and scalable web applications with React.js and moder
     alt="GitHub Contribution Streak"
   />
 </p>
+
+---
 
 ## 💼 Experience
 
