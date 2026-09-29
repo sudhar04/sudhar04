@@ -287,6 +287,11 @@ Full-Stack Web Development**.
 ## 🤝 Let's Connect
 
 <p align="center">
+  <strong>I'm open to opportunities involving Frontend Development,
+  React.js, and Full-Stack Web Development.</strong>
+</p>
+
+<p align="center">
   <a href="https://github.com/sudhar04">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
