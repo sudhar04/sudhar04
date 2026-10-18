@@ -159,13 +159,13 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ---
 
-### 🎬 Movie App
+### 💼 Job Portal – Job Application Tracking System
 
-> Movie discovery application for browsing trending movies and searching titles using the TMDB API.
+> A responsive Job Portal application that enables users to search and explore job opportunities, submit applications, and track their application status through an interactive dashboard.
 
 **Tech Stack**
 
-`React.js` `TMDB API`
+`React.js` `TypeScript`
 
 📂 **[View Source Code](https://github.com/sudhar04/cine-flix)**
 
