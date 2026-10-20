@@ -167,7 +167,7 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 `React.js` `TypeScript`
 
-📂 **[View Source Code](https://github.com/sudhar04/cine-flix)**
+📂 **[View Source Code](https://github.com/sudhar04/OneData-Frontend-Assessment)**
 
 ---
 
