@@ -169,6 +169,8 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 📂 **[View Source Code](https://github.com/sudhar04/OneData-Frontend-Assessment)**
 
+🌐 **[Live Demo](https://onedata-frontend-assessment.vercel.app/)**
+
 ---
 
 ### 🚤 Boating Website
