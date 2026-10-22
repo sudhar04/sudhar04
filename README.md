@@ -165,7 +165,7 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 **Tech Stack**
 
-`React.js` `TypeScript`
+`React.js` `TypeScript` `Zustand` `Responsive Design`
 
 📂 **[View Source Code](https://github.com/sudhar04/OneData-Frontend-Assessment)**
 
