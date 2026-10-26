@@ -77,7 +77,7 @@ Building fast, responsive, and scalable web applications with React.js and moder
 ### 🗄️ Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,supabase,mangodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,supabase,mongodb" />
 </p>
 
 ### 🛠️ Tools
