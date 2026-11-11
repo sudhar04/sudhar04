@@ -47,6 +47,16 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ---
 
+<p align="center">
+  <img 
+    src="./assets/sudharsanan-developer.gif" 
+    alt="Developer working on laptop"
+    width="440"
+  />
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 - 💻 Frontend Developer specializing in **React.js and modern web technologies**
