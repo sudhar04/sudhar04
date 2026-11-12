@@ -37,6 +37,15 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ---
 
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&repeat=true&width=850&height=65&lines=Building+Digital+Experiences;Frontend+Developer+%7C+React.js;Crafting+Modern+Web+Applications;React.js+%2B+TypeScript+%2B+Tailwind+CSS;Turning+Ideas+Into+Real+Products"
+    alt="Premium Developer Typing Animation"
+  />
+</p>
+---
+
 <p align="center">
   <img 
     src="./assets/sudharsanan-developer.gif" 
