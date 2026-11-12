@@ -39,16 +39,6 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 <p align="center">
   <img 
-    src="./assets/developer-working.gif" 
-    alt="Developer working on laptop"
-    width="440"
-  />
-</p>
-
----
-
-<p align="center">
-  <img 
     src="./assets/sudharsanan-developer.gif" 
     alt="Developer working on laptop"
     width="440"
