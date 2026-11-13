@@ -44,6 +44,7 @@ Building fast, responsive, and scalable web applications with React.js and moder
     alt="Premium Developer Typing Animation"
   />
 </p>
+
 ---
 
 <p align="center">
