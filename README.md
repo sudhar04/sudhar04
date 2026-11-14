@@ -32,21 +32,6 @@ Building fast, responsive, and scalable web applications with React.js and moder
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;JavaScript+Enthusiast;Currently+Learning+TypeScript;Open+to+Frontend+Opportunities" alt="Typing SVG" />
-</p>
-
----
-
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&repeat=true&width=850&height=65&lines=Building+Digital+Experiences;Frontend+Developer+%7C+React.js;Crafting+Modern+Web+Applications;React.js+%2B+TypeScript+%2B+Tailwind+CSS;Turning+Ideas+Into+Real+Products"
-    alt="Premium Developer Typing Animation"
-  />
-</p>
-
-
-<p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1100&color=22D3EE&center=true&vCenter=true&repeat=true&width=850&height=65&lines=Engineering+Ideas+Into+Web+Experiences;Building+With+React.js+%26+TypeScript;Creating+Responsive+User+Interfaces;Developing+Full+Stack+Web+Solutions;From+Concept+To+Production;Always+Learning.+Always+Building."
     alt="Developer Introduction Animation"
