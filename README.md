@@ -45,6 +45,15 @@ Building fast, responsive, and scalable web applications with React.js and moder
   />
 </p>
 
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1100&color=22D3EE&center=true&vCenter=true&repeat=true&width=850&height=65&lines=Engineering+Ideas+Into+Web+Experiences;Building+With+React.js+%26+TypeScript;Creating+Responsive+User+Interfaces;Developing+Full+Stack+Web+Solutions;From+Concept+To+Production;Always+Learning.+Always+Building."
+    alt="Developer Introduction Animation"
+  />
+</p>
+
+
 ---
 
 <p align="center">
