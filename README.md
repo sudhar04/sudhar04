@@ -9,6 +9,14 @@
 Building fast, responsive, and scalable web applications with React.js and modern frontend technologies .
 </p>
 
+<p align="center">
+  <img
+    src="./assets/banner-premium.png"
+    width="100%"
+    alt="Sudharsanan R | Frontend Developer | React.js Developer"
+  />
+</p>
+
 ---
 
 <p align="center">
