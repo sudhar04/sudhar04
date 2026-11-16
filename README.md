@@ -30,6 +30,27 @@ Building fast, responsive, and scalable web applications with React.js and moder
   </a>
 </p>
 
+
+
+<p align="center">
+  <a href="https://github.com/sudhar04">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=161B22" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sudharsanan-r-developer/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=084B8A" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://sudharsanan-portfolio.web.app">
+    <img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=4834A5" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:sudharsananr04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=BE185D" alt="Email" />
+  </a>
+</p>
+
+
 ---
 
 <p align="center">
