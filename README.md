@@ -37,37 +37,35 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 
 
+
 ---
 
-<h2 align="center">Let's Connect</h2>
+<h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
-  <sub>Connect with me and explore my work.</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=500&height=30&lines=Open+to+opportunities+and+collaborations;Let's+build+something+great+together" alt="Connect tagline" />
 </p>
 
 <p align="center">
   <a href="https://github.com/sudhar04">
-    <img src="https://img.shields.io/badge/GitHub-21262D?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="32" />
+    <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sudharsanan-r-developer/">
-    <img src="https://img.shields.io/badge/LinkedIn-123D65?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="32" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0966C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://sudharsanan-portfolio.web.app">
-    <img src="https://img.shields.io/badge/Portfolio-30265B?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" height="32" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:sudharsananr04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-57213B?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="32" />
+    <img src="https://img.shields.io/badge/EMAIL-DB2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<p align="center">
-  <sub>OPEN TO OPPORTUNITIES · COLLABORATIONS · FREELANCE PROJECTS</sub>
-</p>
-
 ---
+
 
 
 
