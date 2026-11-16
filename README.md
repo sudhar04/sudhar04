@@ -36,39 +36,39 @@ Building fast, responsive, and scalable web applications with React.js and moder
 ---
 
 
+
 ---
 
-<h2 align="center">🌐 Let's Connect</h2>
+<h2 align="center">Let's Connect</h2>
 
 <p align="center">
-  <sub>Find me across the web · Let's build something meaningful.</sub>
+  <sub>Connect with me and explore my work.</sub>
 </p>
 
 <p align="center">
   <a href="https://github.com/sudhar04">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="20" height="20" alt="GitHub" />
-    <strong> GitHub</strong>
+    <img src="https://img.shields.io/badge/GitHub-21262D?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="32" />
   </a>
-  &nbsp;&nbsp; • &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/sudharsanan-r-developer/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20" height="20" alt="LinkedIn" />
-    <strong> LinkedIn</strong>
+    <img src="https://img.shields.io/badge/LinkedIn-123D65?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="32" />
   </a>
-  &nbsp;&nbsp; • &nbsp;&nbsp;
+  &nbsp;
   <a href="https://sudharsanan-portfolio.web.app">
-    <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="20" height="20" alt="Portfolio" />
-    <strong> Portfolio</strong>
+    <img src="https://img.shields.io/badge/Portfolio-30265B?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" height="32" />
   </a>
-  &nbsp;&nbsp; • &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:sudharsananr04@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" alt="Email" />
-    <strong> Email</strong>
+    <img src="https://img.shields.io/badge/Email-57213B?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="32" />
   </a>
 </p>
 
 <p align="center">
-  <sub>Open to collaboration · Freelance projects · Frontend opportunities</sub>
+  <sub>OPEN TO OPPORTUNITIES · COLLABORATIONS · FREELANCE PROJECTS</sub>
 </p>
+
+---
+
 
 
 
