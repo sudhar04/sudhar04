@@ -12,24 +12,33 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ---
 
+---
+
+<h2 align="center">🌐 Let's Connect</h2>
+
+<p align="center">
+  <i>Let's build something great together.</i>
+</p>
+
 <p align="center">
   <a href="https://github.com/sudhar04">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" />
   </a>
- 
+  &nbsp;
   <a href="https://www.linkedin.com/in/sudharsanan-r-developer/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0966C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
+  &nbsp;
   <a href="https://sudharsanan-portfolio.web.app">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-
+  &nbsp;
   <a href="mailto:sudharsananr04@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-DB2777?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+---
 
 
 
