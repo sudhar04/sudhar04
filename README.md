@@ -12,8 +12,6 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ---
 
----
-
 <h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
@@ -37,47 +35,6 @@ Building fast, responsive, and scalable web applications with React.js and moder
     <img src="https://img.shields.io/badge/EMAIL-DB2777?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-
-
----
-
-
----
-
-<h2 align="center">Let's Connect</h2>
-
-<p align="center">
-  <sub>Connect with me and explore my work.</sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sudhar04">
-    <img src="https://img.shields.io/badge/GitHub-21262D?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="32" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/sudharsanan-r-developer/">
-    <img src="https://img.shields.io/badge/LinkedIn-123D65?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="32" />
-  </a>
-  &nbsp;
-  <a href="https://sudharsanan-portfolio.web.app">
-    <img src="https://img.shields.io/badge/Portfolio-30265B?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" height="32" />
-  </a>
-  &nbsp;
-  <a href="mailto:sudharsananr04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-57213B?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="32" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>OPEN TO OPPORTUNITIES · COLLABORATIONS · FREELANCE PROJECTS</sub>
-</p>
-
----
-
-
 
 ---
 
