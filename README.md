@@ -32,23 +32,60 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 
 
+
+---
+
+<h2 align="center">🌐 Let's Connect</h2>
+
 <p align="center">
-  <a href="https://github.com/sudhar04">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=161B22" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/sudharsanan-r-developer/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=084B8A" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://sudharsanan-portfolio.web.app">
-    <img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=4834A5" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="mailto:sudharsananr04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=BE185D" alt="Email" />
-  </a>
+  <i>Have an idea, opportunity, or project in mind? Let's connect and create something meaningful.</i>
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/sudhar04">
+        <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br />
+      <sub>Explore my repositories and projects</sub>
+      <br />
+      <a href="https://github.com/sudhar04">View Profile ↗</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.linkedin.com/in/sudharsanan-r-developer/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <br />
+      <sub>Let's connect professionally</sub>
+      <br />
+      <a href="https://www.linkedin.com/in/sudharsanan-r-developer/">Connect ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://sudharsanan-portfolio.web.app">
+        <img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      </a>
+      <br />
+      <sub>Discover my work and experience</sub>
+      <br />
+      <a href="https://sudharsanan-portfolio.web.app">Explore Portfolio ↗</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="mailto:sudharsananr04@gmail.com">
+        <img src="https://img.shields.io/badge/Email-DB2777?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+      <br />
+      <sub>Feel free to reach out</sub>
+      <br />
+      <a href="mailto:sudharsananr04@gmail.com">Send Email ↗</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 
 
 ---
