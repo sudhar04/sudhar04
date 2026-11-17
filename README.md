@@ -215,22 +215,6 @@ Building fast, responsive, and scalable web applications with React.js and moder
 <tr>
 <td width="50%" valign="top">
 
-<h3>🏥 Healthcare Dashboard</h3>
-<strong>Healthcare Data Visualization</strong>
-
-<p>A responsive dashboard presenting patient information, diagnostic data, vital signs, and blood pressure history through interactive visualizations.</p>
-
-<strong>⚙️ Tech Stack</strong>
-
-<code>React.js</code> <code>JavaScript</code> <code>Chart.js</code> <code>REST API</code>
-
-<br/><br/>
-
-<a href="https://github.com/sudhar04/Healthcare-Dashboard">📂 Source Code</a>
-
-</td>
-<td width="50%" valign="top">
-
 <h3>💼 Job Portal</h3>
 <strong>Job Application Tracking System</strong>
 
@@ -266,22 +250,6 @@ Building fast, responsive, and scalable web applications with React.js and moder
 <a href="https://github.com/sudhar04/Boating-website">📂 Source Code</a>
 &nbsp; • &nbsp;
 <a href="https://boating-website.vercel.app/">🌐 Live Demo</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🎬 CineFlix</h3>
-<strong>Movie Discovery Application</strong>
-
-<p>A movie discovery application for exploring trending movies and searching titles through the TMDB API.</p>
-
-<strong>⚙️ Tech Stack</strong>
-
-<code>React.js</code> <code>TMDB API</code>
-
-<br/><br/>
-
-<a href="https://github.com/sudhar04/cine-flix">📂 Source Code</a>
 
 </td>
 </tr>
