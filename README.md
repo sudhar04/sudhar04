@@ -130,7 +130,7 @@ Building fast, responsive, and scalable web applications with React.js and moder
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  <sub>A selection of applications I've designed, developed, and deployed.</sub>
+  <sub>Explore selected applications I've designed, developed, and deployed.</sub>
 </p>
 
 <table>
@@ -140,16 +140,16 @@ Building fast, responsive, and scalable web applications with React.js and moder
 <h3>🤝 RS Hunt</h3>
 <strong>Business Networking Platform</strong>
 
-<p>A platform connecting entrepreneurs, professionals, and business owners across Pondicherry and India, encouraging meaningful business connections and collaboration.</p>
+<p>A networking platform connecting entrepreneurs, professionals, and business owners across Pondicherry and India, encouraging meaningful connections and collaboration.</p>
 
-<strong>Built With</strong>
+<strong>⚙️ Tech Stack</strong>
 
 <code>React.js</code> <code>Tailwind CSS</code>
 
 <br/><br/>
 
 <a href="https://github.com/sudhar04/RS-Hunt">📂 Source Code</a>
-&nbsp; | &nbsp;
+&nbsp; • &nbsp;
 <a href="https://rs-hunt.vercel.app/">🌐 Live Demo</a>
 
 </td>
@@ -158,16 +158,16 @@ Building fast, responsive, and scalable web applications with React.js and moder
 <h3>🚩 Feature Flag Management</h3>
 <strong>Multi-Tenant SaaS Platform</strong>
 
-<p>A feature management platform for dynamically controlling application features, with authentication, backend services, and database-driven configuration.</p>
+<p>A feature management platform for dynamically controlling application features with authentication, backend services, and database-driven configuration.</p>
 
-<strong>Built With</strong>
+<strong>⚙️ Tech Stack</strong>
 
 <code>React.js</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code>
 
 <br/><br/>
 
 <a href="https://github.com/sudhar04/Feature-Flag-Management-System">📂 Source Code</a>
-&nbsp; | &nbsp;
+&nbsp; • &nbsp;
 <a href="https://multi-feature-flag-management-system.vercel.app/">🌐 Live Demo</a>
 
 </td>
@@ -177,18 +177,18 @@ Building fast, responsive, and scalable web applications with React.js and moder
 <td width="50%" valign="top">
 
 <h3>🚌 Bus Ticket Booking</h3>
-<strong>Online Bus Reservation Application</strong>
+<strong>Online Reservation Application</strong>
 
-<p>An interactive bus booking application featuring seat selection, a streamlined booking flow, and QR-based ticket generation.</p>
+<p>An interactive bus booking application featuring seat selection, a streamlined booking process, and QR-based ticket generation.</p>
 
-<strong>Built With</strong>
+<strong>⚙️ Tech Stack</strong>
 
 <code>React.js</code> <code>JavaScript</code> <code>Tailwind CSS</code>
 
 <br/><br/>
 
 <a href="https://github.com/sudhar04/Bus-Ticket-Booking-App">📂 Source Code</a>
-&nbsp; | &nbsp;
+&nbsp; • &nbsp;
 <a href="https://rs-bus-ticket-booking.netlify.app/">🌐 Live Demo</a>
 
 </td>
@@ -197,16 +197,16 @@ Building fast, responsive, and scalable web applications with React.js and moder
 <h3>✈️ Flight Search App</h3>
 <strong>Flight Discovery Application</strong>
 
-<p>A responsive flight search interface with REST API integration for retrieving and displaying dynamic flight information.</p>
+<p>A responsive flight search interface integrating REST APIs to retrieve and display dynamic flight information.</p>
 
-<strong>Built With</strong>
+<strong>⚙️ Tech Stack</strong>
 
 <code>React.js</code> <code>Bootstrap</code> <code>REST API</code>
 
 <br/><br/>
 
 <a href="https://github.com/sudhar04/Flight-Search-App">📂 Source Code</a>
-&nbsp; | &nbsp;
+&nbsp; • &nbsp;
 <a href="https://rs-flight-search.netlify.app/">🌐 Live Demo</a>
 
 </td>
@@ -218,9 +218,9 @@ Building fast, responsive, and scalable web applications with React.js and moder
 <h3>🏥 Healthcare Dashboard</h3>
 <strong>Healthcare Data Visualization</strong>
 
-<p>A responsive dashboard displaying patient information, diagnostic data, vital signs, and blood pressure history through interactive visualizations.</p>
+<p>A responsive dashboard presenting patient information, diagnostic data, vital signs, and blood pressure history through interactive visualizations.</p>
 
-<strong>Built With</strong>
+<strong>⚙️ Tech Stack</strong>
 
 <code>React.js</code> <code>JavaScript</code> <code>Chart.js</code> <code>REST API</code>
 
@@ -234,16 +234,16 @@ Building fast, responsive, and scalable web applications with React.js and moder
 <h3>💼 Job Portal</h3>
 <strong>Job Application Tracking System</strong>
 
-<p>A frontend-only job portal featuring job discovery, application forms, skills selection, and application status tracking with centralized state management.</p>
+<p>A frontend-only job portal featuring job discovery, application forms, skills selection, and application status tracking using centralized state management.</p>
 
-<strong>Built With</strong>
+<strong>⚙️ Tech Stack</strong>
 
 <code>React.js</code> <code>TypeScript</code> <code>Zustand</code> <code>Fluent UI</code>
 
 <br/><br/>
 
 <a href="https://github.com/sudhar04/OneData-Frontend-Assessment">📂 Source Code</a>
-&nbsp; | &nbsp;
+&nbsp; • &nbsp;
 <a href="https://onedata-frontend-assessment.vercel.app/">🌐 Live Demo</a>
 
 </td>
@@ -255,16 +255,16 @@ Building fast, responsive, and scalable web applications with React.js and moder
 <h3>🚤 Boating Website</h3>
 <strong>Responsive Boating Experience</strong>
 
-<p>A modern boating website featuring an engaging interface, responsive layouts, and a consistent experience across desktop, tablet, and mobile devices.</p>
+<p>A modern boating website featuring an engaging interface and responsive layouts for desktop, tablet, and mobile devices.</p>
 
-<strong>Built With</strong>
+<strong>⚙️ Tech Stack</strong>
 
 <code>React.js</code> <code>Tailwind CSS</code> <code>JavaScript</code>
 
 <br/><br/>
 
 <a href="https://github.com/sudhar04/Boating-website">📂 Source Code</a>
-&nbsp; | &nbsp;
+&nbsp; • &nbsp;
 <a href="https://boating-website.vercel.app/">🌐 Live Demo</a>
 
 </td>
@@ -273,9 +273,9 @@ Building fast, responsive, and scalable web applications with React.js and moder
 <h3>🎬 CineFlix</h3>
 <strong>Movie Discovery Application</strong>
 
-<p>A movie discovery application for exploring trending movies and searching titles using the TMDB API.</p>
+<p>A movie discovery application for exploring trending movies and searching titles through the TMDB API.</p>
 
-<strong>Built With</strong>
+<strong>⚙️ Tech Stack</strong>
 
 <code>React.js</code> <code>TMDB API</code>
 
@@ -288,7 +288,7 @@ Building fast, responsive, and scalable web applications with React.js and moder
 </table>
 
 <p align="center">
-  <strong>More projects and experiments coming soon...</strong>
+  <sub>Building meaningful digital experiences, one project at a time.</sub>
 </p>
 
 
