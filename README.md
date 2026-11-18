@@ -125,49 +125,57 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ---
 
-
-
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  <sub>Explore selected applications I've designed, developed, and deployed.</sub>
+  <sub>Building practical digital experiences through modern web technologies.</sub>
 </p>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 <h3>🤝 RS Hunt</h3>
+
 <strong>Business Networking Platform</strong>
 
-<p>A networking platform connecting entrepreneurs, professionals, and business owners across Pondicherry and India, encouraging meaningful connections and collaboration.</p>
+<p>
+A platform connecting entrepreneurs, professionals, and business owners across Pondicherry and India, encouraging meaningful connections and business collaboration.
+</p>
 
-<strong>⚙️ Tech Stack</strong>
+<strong>Tech Stack</strong>
 
-<code>React.js</code> <code>Tailwind CSS</code>
-
-<br/><br/>
+<p>
+<code>React.js</code>
+<code>Tailwind CSS</code>
+</p>
 
 <a href="https://github.com/sudhar04/RS-Hunt">📂 Source Code</a>
-&nbsp; • &nbsp;
+&nbsp; · &nbsp;
 <a href="https://rs-hunt.vercel.app/">🌐 Live Demo</a>
 
 </td>
 <td width="50%" valign="top">
 
 <h3>🚩 Feature Flag Management</h3>
+
 <strong>Multi-Tenant SaaS Platform</strong>
 
-<p>A feature management platform for dynamically controlling application features with authentication, backend services, and database-driven configuration.</p>
+<p>
+A feature management platform for dynamically controlling application features with authentication, backend services, and database-driven configuration.
+</p>
 
-<strong>⚙️ Tech Stack</strong>
+<strong>Tech Stack</strong>
 
-<code>React.js</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code>
-
-<br/><br/>
+<p>
+<code>React.js</code>
+<code>Node.js</code>
+<code>Express.js</code>
+<code>MongoDB</code>
+</p>
 
 <a href="https://github.com/sudhar04/Feature-Flag-Management-System">📂 Source Code</a>
-&nbsp; • &nbsp;
+&nbsp; · &nbsp;
 <a href="https://multi-feature-flag-management-system.vercel.app/">🌐 Live Demo</a>
 
 </td>
@@ -177,36 +185,46 @@ Building fast, responsive, and scalable web applications with React.js and moder
 <td width="50%" valign="top">
 
 <h3>🚌 Bus Ticket Booking</h3>
+
 <strong>Online Reservation Application</strong>
 
-<p>An interactive bus booking application featuring seat selection, a streamlined booking process, and QR-based ticket generation.</p>
+<p>
+An interactive bus booking application featuring seat selection, a streamlined booking process, and QR-based ticket generation.
+</p>
 
-<strong>⚙️ Tech Stack</strong>
+<strong>Tech Stack</strong>
 
-<code>React.js</code> <code>JavaScript</code> <code>Tailwind CSS</code>
-
-<br/><br/>
+<p>
+<code>React.js</code>
+<code>JavaScript</code>
+<code>Tailwind CSS</code>
+</p>
 
 <a href="https://github.com/sudhar04/Bus-Ticket-Booking-App">📂 Source Code</a>
-&nbsp; • &nbsp;
+&nbsp; · &nbsp;
 <a href="https://rs-bus-ticket-booking.netlify.app/">🌐 Live Demo</a>
 
 </td>
 <td width="50%" valign="top">
 
 <h3>✈️ Flight Search App</h3>
+
 <strong>Flight Discovery Application</strong>
 
-<p>A responsive flight search interface integrating REST APIs to retrieve and display dynamic flight information.</p>
+<p>
+A responsive flight search interface integrating REST APIs to retrieve and display dynamic flight information.
+</p>
 
-<strong>⚙️ Tech Stack</strong>
+<strong>Tech Stack</strong>
 
-<code>React.js</code> <code>Bootstrap</code> <code>REST API</code>
-
-<br/><br/>
+<p>
+<code>React.js</code>
+<code>Bootstrap</code>
+<code>REST API</code>
+</p>
 
 <a href="https://github.com/sudhar04/Flight-Search-App">📂 Source Code</a>
-&nbsp; • &nbsp;
+&nbsp; · &nbsp;
 <a href="https://rs-flight-search.netlify.app/">🌐 Live Demo</a>
 
 </td>
@@ -216,39 +234,47 @@ Building fast, responsive, and scalable web applications with React.js and moder
 <td width="50%" valign="top">
 
 <h3>💼 Job Portal</h3>
+
 <strong>Job Application Tracking System</strong>
 
-<p>A frontend-only job portal featuring job discovery, application forms, skills selection, and application status tracking using centralized state management.</p>
+<p>
+A frontend-only job portal featuring job discovery, application forms, skills selection, and application status tracking with centralized state management.
+</p>
 
-<strong>⚙️ Tech Stack</strong>
+<strong>Tech Stack</strong>
 
-<code>React.js</code> <code>TypeScript</code> <code>Zustand</code> <code>Fluent UI</code>
-
-<br/><br/>
+<p>
+<code>React.js</code>
+<code>TypeScript</code>
+<code>Zustand</code>
+<code>Fluent UI</code>
+</p>
 
 <a href="https://github.com/sudhar04/OneData-Frontend-Assessment">📂 Source Code</a>
-&nbsp; • &nbsp;
+&nbsp; · &nbsp;
 <a href="https://onedata-frontend-assessment.vercel.app/">🌐 Live Demo</a>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 <h3>🚤 Boating Website</h3>
+
 <strong>Responsive Boating Experience</strong>
 
-<p>A modern boating website featuring an engaging interface and responsive layouts for desktop, tablet, and mobile devices.</p>
+<p>
+A modern boating website featuring an engaging interface and responsive layouts designed for desktop, tablet, and mobile devices.
+</p>
 
-<strong>⚙️ Tech Stack</strong>
+<strong>Tech Stack</strong>
 
-<code>React.js</code> <code>Tailwind CSS</code> <code>JavaScript</code>
-
-<br/><br/>
+<p>
+<code>React.js</code>
+<code>Tailwind CSS</code>
+<code>JavaScript</code>
+</p>
 
 <a href="https://github.com/sudhar04/Boating-website">📂 Source Code</a>
-&nbsp; • &nbsp;
+&nbsp; · &nbsp;
 <a href="https://boating-website.vercel.app/">🌐 Live Demo</a>
 
 </td>
@@ -256,9 +282,8 @@ Building fast, responsive, and scalable web applications with React.js and moder
 </table>
 
 <p align="center">
-  <sub>Building meaningful digital experiences, one project at a time.</sub>
+  <sub>✨ Turning ideas into functional, user-focused web experiences.</sub>
 </p>
-
 
 ---
 
