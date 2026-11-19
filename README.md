@@ -95,6 +95,73 @@ Building fast, responsive, and scalable web applications with React.js and moder
 - 🎯 Open to **Frontend Developer opportunities**
 - 📫 Reach me at: **sudharsananr04@gmail.com**
 
+
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&height=45&lines=Frontend+Developer+%7C+React.js;Building+Modern+Web+Experiences;Turning+Ideas+Into+Functional+Applications;Always+Learning.+Always+Building."
+    alt="About Me Animation"
+  />
+</p>
+
+<p align="center">
+  <strong>Passionate about building responsive, scalable, and user-friendly web applications.</strong>
+</p>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Background
+
+- B.E. Mechanical Engineering Graduate (2025)
+- Junior Full Stack Developer
+- 8 months of professional experience
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Development
+
+- React.js & JavaScript
+- TypeScript & Tailwind CSS
+- REST API Integration
+- Responsive UI Development
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 Currently Exploring
+
+- Advanced TypeScript
+- Full Stack Development
+- Modern frontend architecture
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Career Focus
+
+- Frontend Developer Opportunities
+- Building real-world applications
+- Open to freelance collaborations
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="mailto:sudharsananr04@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Connect-22D3EE?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's Connect"/>
+  </a>
+</p>
+
 ---
 
 ## 🚀 Tech Stack
