@@ -97,6 +97,7 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 
 
+
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
@@ -112,11 +113,11 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 <br/>
 
-<table>
+<table align="center" width="85%">
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Background
+<h3>🎓 Background</h3>
 
 - B.E. Mechanical Engineering Graduate (2025)
 - Junior Full Stack Developer
@@ -125,7 +126,7 @@ Building fast, responsive, and scalable web applications with React.js and moder
 </td>
 <td width="50%" valign="top">
 
-### 💻 Development
+<h3>💻 Development</h3>
 
 - React.js & JavaScript
 - TypeScript & Tailwind CSS
@@ -137,7 +138,7 @@ Building fast, responsive, and scalable web applications with React.js and moder
 <tr>
 <td width="50%" valign="top">
 
-### 🌱 Currently Exploring
+<h3>🌱 Currently Exploring</h3>
 
 - Advanced TypeScript
 - Full Stack Development
@@ -146,7 +147,7 @@ Building fast, responsive, and scalable web applications with React.js and moder
 </td>
 <td width="50%" valign="top">
 
-### 🎯 Career Focus
+<h3>🎯 Career Focus</h3>
 
 - Frontend Developer Opportunities
 - Building real-world applications
@@ -156,11 +157,17 @@ Building fast, responsive, and scalable web applications with React.js and moder
 </tr>
 </table>
 
+<br/>
+
 <p align="center">
   <a href="mailto:sudharsananr04@gmail.com">
-    <img src="https://img.shields.io/badge/Let's%20Connect-22D3EE?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's Connect"/>
+    <img
+      src="https://img.shields.io/badge/LET'S%20CONNECT-22D3EE?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Let's Connect"
+    />
   </a>
 </p>
+
 
 ---
 
