@@ -324,6 +324,20 @@ A modern boating website featuring an engaging interface and responsive layouts 
 
 ---
 
+
+<h2 align="center">🚀 Currently Working On</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&height=40&lines=Building+Modern+React+Applications;Exploring+Advanced+TypeScript;Developing+Full+Stack+Solutions;Growing+My+Freelance+Portfolio" alt="Currently Working On"/>
+</p>
+
+- ⚡ Improving React.js and TypeScript development skills.
+- 🎨 Exploring modern UI/UX and frontend architecture.
+- 🌐 Developing business websites through freelance projects.
+- 🔧 Exploring backend development and API integrations.
+
+---
+
 ## 📈 GitHub Activity
 
 <p align="center">
