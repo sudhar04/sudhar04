@@ -171,6 +171,21 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ---
 
+
+<h2 align="center">🏆 Professional Highlights</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-8%2B%20Months-22D3EE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-8%2B-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Freelance-Client%20Projects-10B981?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <strong>From engineering graduate to web developer — continuously learning, building, and delivering digital solutions.</strong>
+</p>
+
+---
+
 ## 🚀 Tech Stack
 
 ### 💻 Frontend
