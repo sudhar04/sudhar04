@@ -171,6 +171,52 @@ Building fast, responsive, and scalable web applications with React.js and moder
 
 ---
 
+<h2 align="center">💡 What I Bring to the Table</h2>
+
+<table align="center" width="90%">
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Frontend Development
+- Responsive UI development
+- Reusable React components
+- Modern design implementation
+- Cross-device compatibility
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Application Development
+- REST API integration
+- State management
+- Authentication workflows
+- Dynamic data handling
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Deployment
+- Vercel and Netlify
+- Firebase Hosting
+- Domain and DNS configuration
+- Linux VPS and Nginx basics
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 Professional Skills
+- Problem-solving
+- Client communication
+- Project ownership
+- Continuous learning
+
+</td>
+</tr>
+</table>
+
+---
 
 <h2 align="center">🏆 Professional Highlights</h2>
 
