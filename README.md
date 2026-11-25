@@ -383,7 +383,7 @@ A modern boating website featuring an engaging interface and responsive layouts 
   </a>
   &nbsp;
   <a href="https://rs-hunt.vercel.app/">
-    <img src="https://img.shields.io/badge/RS%20Hunt-Live%20Platform-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Karai%20Travels-Live%20Platform-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
