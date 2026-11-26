@@ -382,7 +382,7 @@ A modern boating website featuring an engaging interface and responsive layouts 
     <img src="https://img.shields.io/badge/SGP%20Promoters-Live%20Website-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://rs-hunt.vercel.app/">
+  <a href="https://karai-travels.vercel.app/">
     <img src="https://img.shields.io/badge/Karai%20Travels-Live%20Platform-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
